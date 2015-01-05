@@ -13,6 +13,7 @@
   "author": "Zhou Xiong",
   "license": "MIT",
   "dependencies": {
-    "connect": "^3.0.1"
+    "connect": "^3.0.1",
+    "minimist": "^1.1.0"
   }
 }
