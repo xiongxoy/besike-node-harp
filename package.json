@@ -1,0 +1,18 @@
+{
+  "name": "mini-harp",
+  "version": "0.0.1",
+  "description": "A toy web-server for static files.",
+  "main": "index.js",
+  "bin": "bin/mini-harp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-server"
+  ],
+  "author": "Zhou Xiong",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.0.1"
+  }
+}
